@@ -4,7 +4,7 @@
 
 ## I'm a software developer from the Emsland
 
-- 🔭 Check out my projects: [https://git.sh-edraft.de/)](https://git.sh-edraft.de/explore/repos)]
+- 🔭 Check out my projects: [https://git.sh-edraft.de/](https://git.sh-edraft.de/explore/repos)
 - 🌱 I’m currently learning React and GraphQL
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Improve my main project [CPL](https://git.sh-edraft.de/sh-edraft.de/sh_cpl)
