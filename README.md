@@ -1,7 +1,12 @@
 # Hello there, I'm Sven aka edraft 👋
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.sh-edraft.de%2Fen%2Fhome)](https://www.sh-edraft.de/en/home/)
-[![Git](https://img.shields.io/website?url=https%3A%2F%2Fgit.sh-edraft.de)](https://git.sh-edraft.de)
+[![Website](https://img.shields.io/website?label=sh-edraft.de&url=https%3A%2F%2Fwww.sh-edraft.de%2Fen%2Fhome)](https://www.sh-edraft.de/en/home/)
+[![Git](https://img.shields.io/website?label=git&url=https%3A%2F%2Fgit.sh-edraft.de)](https://git.sh-edraft.de)
+
+[![Reddit](https://img.shields.io/reddit/user-karma/combined/edraft_sh?color=%23ef9d0d&style=social)](https://reddit.com/u/edraft_sh)
+
+[![Discord](https://img.shields.io/discord/650366049023295514?label=discord)](https://discord.gg/vUbCF2q9ax)
+
 
 ## I'm a software developer from the Emsland
 
