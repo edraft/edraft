@@ -1,6 +1,7 @@
 # Hello there, I'm Sven aka edraft 👋
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.sh-edraft.de%2Fen%2Fhome)](https://www.sh-edraft.de/en/home/)
+[![Git](https://img.shields.io/website?url=https%3A%2F%2Fgit.sh-edraft.de)](https://git.sh-edraft.de)
 
 ## I'm a software developer from the Emsland
 
