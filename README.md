@@ -16,7 +16,6 @@
 - 🥅 2023 Goals: Improve my main project [CPL](https://git.sh-edraft.de/sh-edraft.de/sh_cpl)
 - ⚡ Fun fact: I love gaming and playing guitar
 - 💬 Ask me about **Python, C#, TypeScript, SQL & Linux**
-- 📫 How to reach me **sven.heidemann@sh-edraft.de**
 
 ## Connect with me:
 
