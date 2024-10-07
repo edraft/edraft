@@ -11,9 +11,7 @@
 ## I'm a software developer from the Emsland
 
 - 🔭 Check out my projects: [https://git.sh-edraft.de/](https://git.sh-edraft.de/explore/repos)
-- 🌱 I’m currently learning React and GraphQL
 - 👯 I’m looking to collaborate with other fullstack developers
-- 🥅 2023 Goals: Improve my main project [CPL](https://git.sh-edraft.de/sh-edraft.de/sh_cpl)
 - ⚡ Fun fact: I love gaming and playing guitar
 - 💬 Ask me about **Python, C#, TypeScript, SQL & Linux**
 
